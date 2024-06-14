@@ -5,3 +5,13 @@
     border: 1px solid salmon;
 }
 
+@media(max-width:992px) {
+    .sub-column {
+        display: none;
+    }
+
+    .all {
+        width: 100%;
+        max-width: 768px;
+    }
+}
