@@ -1,4 +1,7 @@
 .all {
-    width: 100%;
-    max-width: 1204px;
+    width: 100px;
+    max-width: 100px;
+    background-color: aqua;
+    border: 1px solid salmon;
 }
+
